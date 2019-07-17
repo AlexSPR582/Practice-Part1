@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1 {
+public class LineProgram1 {
     public static void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите значение а");

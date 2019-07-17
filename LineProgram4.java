@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task4 {
+public class LineProgram4 {
     public static void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число");

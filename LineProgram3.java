@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-public class Task3 {
+public class LineProgram3 {
     public static void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите x");
