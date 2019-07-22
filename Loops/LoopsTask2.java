@@ -1,8 +1,8 @@
-package Сycles;
+package Loops;
 
 import java.util.Scanner;
 
-public class CyclesTask2 {
+public class LoopsTask2 {
     public void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите значение а");

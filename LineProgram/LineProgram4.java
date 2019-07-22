@@ -1,7 +1,9 @@
+package LineProgram;
+
 import java.util.*;
 
 public class LineProgram4 {
-    public static void getResult(){
+    public void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите число");
         double number = sc.nextDouble();

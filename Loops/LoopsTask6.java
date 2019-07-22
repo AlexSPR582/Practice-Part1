@@ -1,4 +1,4 @@
-package Сycles;
+package Loops;
 
 public class LoopsTask6 {
     public void getResult(){

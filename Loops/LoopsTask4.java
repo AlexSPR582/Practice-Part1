@@ -3,7 +3,7 @@ package Loops;
 import java.lang.*;
 import java.math.BigInteger;
 
-public class CyclesTask4 {
+public class LoopsTask4 {
     public void getResult(){
         BigInteger startValue = new BigInteger("1");
         BigInteger result = new BigInteger("1");

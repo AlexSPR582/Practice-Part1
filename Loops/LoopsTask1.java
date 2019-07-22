@@ -1,8 +1,8 @@
-package Сycles;
+package Loops;
 
 import java.util.Scanner;
 
-public class CyclesTask1 {
+public class LoopsTask1 {
     public void getResult(){
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();

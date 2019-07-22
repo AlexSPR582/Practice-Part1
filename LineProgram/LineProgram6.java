@@ -1,7 +1,9 @@
+package LineProgram;
+
 import java.util.Scanner;
 
 public class LineProgram6 {
-    public static void getResult(){
+    public void getResult(){
         Scanner sc = new Scanner(System.in);
         System.out.println("введите x");
         int x = sc.nextInt();

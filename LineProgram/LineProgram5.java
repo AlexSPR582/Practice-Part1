@@ -1,7 +1,9 @@
+package LineProgram;
+
 import java.util.Scanner;
 
 public class LineProgram5 {
-    public static void getResult(){
+    public void getResult(){
         Scanner sc = new Scanner(System.in);
         int time = sc.nextInt();
         double hours = (int) (time / 3600.0);
